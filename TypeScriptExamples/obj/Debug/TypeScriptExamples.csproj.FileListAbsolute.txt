@@ -1,0 +1,7 @@
+D:\document\Investigate\TypeScript\Demo\TypeScriptExamples\TypeScriptExamples\bin\TypeScriptHTMLApp1.dll.config
+D:\document\Investigate\TypeScript\Demo\TypeScriptExamples\TypeScriptExamples\bin\TypeScriptHTMLApp1.dll
+D:\document\Investigate\TypeScript\Demo\TypeScriptExamples\TypeScriptExamples\bin\TypeScriptHTMLApp1.pdb
+D:\document\Investigate\TypeScript\Demo\TypeScriptExamples\TypeScriptExamples\obj\Debug\TypeScriptExamples.csprojAssemblyReference.cache
+D:\document\Investigate\TypeScript\Demo\TypeScriptExamples\TypeScriptExamples\obj\Debug\TypeScriptExamples.csproj.CoreCompileInputs.cache
+D:\document\Investigate\TypeScript\Demo\TypeScriptExamples\TypeScriptExamples\obj\Debug\TypeScriptHTMLApp1.dll
+D:\document\Investigate\TypeScript\Demo\TypeScriptExamples\TypeScriptExamples\obj\Debug\TypeScriptHTMLApp1.pdb
